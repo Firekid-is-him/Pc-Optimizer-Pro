@@ -21,7 +21,7 @@ A comprehensive and **100% safe** PC optimization tool for Windows 10 and 11. Cl
 ![Help Menu 1-10](https://i.ibb.co/hJ6G7tzH/image-2025-11-09-115916263.png)
 
 **Features 11-16:**
-![Help Menu 11-16](https://i.ibb.co/xtLVJQjL/image-2025-11-09-120010864.png)
+![Help Menu 11-16](https://i.ibb.co/Tx2zm582/image-2025-11-09-120010864.png)
 
 </details>
 
