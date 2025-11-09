@@ -1,9 +1,9 @@
 # 🔥 PC Optimizer
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/pc-optimizer?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/pc-optimizer?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/pc-optimizer)
-![GitHub license](https://img.shields.io/github/license/yourusername/pc-optimizer)
+![GitHub stars](https://img.shields.io/github/stars/Firekid-is-him/Pc-Optimizer-Pro?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Firekid-is-him/Pc-Optimizer-Pro?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Firekid-is-him/Pc-Optimizer-Pro)
+![GitHub license](https://img.shields.io/github/license/Firekid-is-him/Pc-Optimizer-Pro)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue)
 
 A comprehensive and **100% safe** PC optimization tool for Windows 10 and 11. Clean, optimize, and boost your PC performance with 30+ automated features.
