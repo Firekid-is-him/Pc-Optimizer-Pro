@@ -8,6 +8,23 @@
 
 A comprehensive and **100% safe** PC optimization tool for Windows 10 and 11. Clean, optimize, and boost your PC performance with 30+ automated features.
 
+## Preview
+
+### Main Interface
+![PC Optimizer Interface](https://i.ibb.co/YT39cYyL/image-2025-11-09-115305201.png)
+
+### Help Menu
+<details>
+<summary>Click to view Help Menu screenshots</summary>
+
+**Features 1-10:**
+![Help Menu 1-10](https://i.ibb.co/hJ6G7tzH/image-2025-11-09-115916263.png)
+
+**Features 11-16:**
+![Help Menu 11-16](https://i.ibb.co/Tx2zm582/image-2025-11-09-120010864.png)
+
+</details>
+
 ## Features
 
 - **32+ Safe Optimizations** - All operations are completely safe and reversible
