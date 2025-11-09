@@ -50,7 +50,7 @@ A comprehensive and **100% safe** PC optimization tool for Windows 10 and 11. Cl
 
 ## Installation
 
-1. Download `PC-Optimizer.bat` from [Releases](https://github.com/yourusername/pc-optimizer/releases)
+1. Download `PC-Optimizer.bat` from [Releases](https://github.com/Firekid-is-him/Pc-Optimizer-Pro/releases)
 2. Right-click the file and select **"Run as administrator"**
 3. Follow the on-screen menu
 
